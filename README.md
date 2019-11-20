@@ -1,2 +1,0 @@
-# counterUpTimer
-Created with CodeSandbox
